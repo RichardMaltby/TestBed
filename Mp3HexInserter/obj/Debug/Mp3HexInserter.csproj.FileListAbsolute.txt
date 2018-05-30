@@ -1,0 +1,10 @@
+C:\Users\rlmal\source\repos\Mp3HexInserter\Mp3HexInserter\bin\Debug\Mp3HexInserter.exe.config
+C:\Users\rlmal\source\repos\Mp3HexInserter\Mp3HexInserter\bin\Debug\Mp3HexInserter.exe
+C:\Users\rlmal\source\repos\Mp3HexInserter\Mp3HexInserter\bin\Debug\Mp3HexInserter.pdb
+C:\Users\rlmal\source\repos\Mp3HexInserter\Mp3HexInserter\obj\Debug\Mp3HexInserter.csprojAssemblyReference.cache
+C:\Users\rlmal\source\repos\Mp3HexInserter\Mp3HexInserter\obj\Debug\Mp3HexInserter.Mp3HexInserter.resources
+C:\Users\rlmal\source\repos\Mp3HexInserter\Mp3HexInserter\obj\Debug\Mp3HexInserter.Properties.Resources.resources
+C:\Users\rlmal\source\repos\Mp3HexInserter\Mp3HexInserter\obj\Debug\Mp3HexInserter.csproj.GenerateResource.cache
+C:\Users\rlmal\source\repos\Mp3HexInserter\Mp3HexInserter\obj\Debug\Mp3HexInserter.csproj.CoreCompileInputs.cache
+C:\Users\rlmal\source\repos\Mp3HexInserter\Mp3HexInserter\obj\Debug\Mp3HexInserter.exe
+C:\Users\rlmal\source\repos\Mp3HexInserter\Mp3HexInserter\obj\Debug\Mp3HexInserter.pdb
